@@ -1,3 +1,6 @@
+//Problem Name:- LeetCode 643. Maximum Average Subarray I
+//Problem Link:- https://leetcode.com/problems/maximum-average-subarray-i/
+
 class Solution {
 public:
     double findMaxAverage(vector<int>& nums, int k) {

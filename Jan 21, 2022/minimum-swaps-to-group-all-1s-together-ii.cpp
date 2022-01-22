@@ -1,3 +1,6 @@
+//Problem Name:- 2134. Minimum Swaps to Group All 1's Together II
+//Problem Link:- https://leetcode.com/problems/minimum-swaps-to-group-all-1s-together-ii/
+
 class Solution {
 public:
     int minSwaps(vector<int>& nums) {
